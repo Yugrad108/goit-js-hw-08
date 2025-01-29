@@ -8,6 +8,7 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+
 ul,
 ol,
 li {
@@ -26,10 +27,18 @@ li {
 
 }
 
+
+
+/* img {
+  width: 360px;
+  height: 240px;  
+  object-fit: cover;
+  border-radius: 8px;
+} */
+
 .gallery-item {  
   margin: 0px;  
 }
-
 .gallery-image {  
   display: block;
   width: 360px;
